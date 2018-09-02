@@ -15,12 +15,14 @@ else you can think of!
 
 Our exercises so far:
 
- * Ransom note - Use css styles to change how letters look and make a ransom note.
+ * Ransom note - use css styles to change how letters look and make a ransom note
+
+ * XWord - make a crossword puzzle about your favorite book
  
  * Hangman - make a simple hangman game in the browser or at the command line
  
  * Tic Tac Toe - make a tic-tac-toe board and let users fill it with
-   X's and O's.  Teach the computer how to play for extra credit!
+   X's and O's.  Teach the computer how to play for extra credit
 
  * Connect four - make a Connect-Four board and let users fill it with chips
  
