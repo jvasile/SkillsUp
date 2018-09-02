@@ -59,3 +59,17 @@ button to check that the entered solution is correct.
 
 Skills: Javascript strings, loops, conditionals, document.write,
 onclick buttons
+
+## Exercise 5
+
+This exercise is more advanced.
+
+Clicking on each cell in the crossword is a lot of work!  This
+crossword would be more fun if we could just type words and a cursor
+would move to the next cell (either across or down) for more typing.
+Make it happen-- you'll need a visible cursor to show which cell
+you're on, a listener to wait for the user to type letters, and a
+routine that a typed letter into the grid and moves the cursor to the
+next cell.  You'll also need a way to switch between across and down.
+
+Skills: Interactive CSS styling, listeners, callbacks
